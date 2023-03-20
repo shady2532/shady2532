@@ -1,5 +1,5 @@
 <H1> Hey there, I'm Shady. </H1>
-## Welcome to my profile :)
+<H2> Welcome to my profile :) </H2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shady2532&bg_color=00000000&theme=calm" />
 </a>
