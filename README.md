@@ -1,7 +1,7 @@
 # Hey there, I'm Shady.
 ## Welcome to my profile :)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shady2532&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shady2532&bg_color=00000000&onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&bg_color=00000000&onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
