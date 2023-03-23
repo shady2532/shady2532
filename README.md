@@ -2,7 +2,7 @@
   <abc>
     <br> Hey there, I'm Shady. </br>
     Welcome to my profile :) </br> 
-    <img src="https://www.citypng.com/public/uploads/preview/-41601318596qfyeqk7mvf.png" alt="amogus" width=50>
+    <img src="https://drive.google.com/file/d/10piyfaCWB5qdkQn7_j2Y9PFP2_7E6sO8/view?usp=share_link" alt="amogus" width=50>
   </abc>
 </H2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
