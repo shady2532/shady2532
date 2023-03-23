@@ -6,7 +6,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&bg_color=00000000&theme=calm&layout=compact" />
 </a>
-
+![shady2532's github streak](https://github-readme-streak-stats.herokuapp.com/?user=shady2532&theme=&bg_color=00000000&theme=calm&include_all_commits=true&count_private=true)
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shady2532&bg_color=00000000&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
