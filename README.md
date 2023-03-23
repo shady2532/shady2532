@@ -1,7 +1,8 @@
 <H2 align="center">
   <abc>
     <br> Hey there, I'm Shady. </br>
-    <br> Welcome to my profile :) </br>
+    Welcome to my profile :) </br>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTAwMjNjZjMxNWY5MjljMDA5ZDUxMTczMDMwZDEyNjcxNzk4Yzk2MCZjdD1n/RtdRhc7TxBxB0YAsK6/giphy.gif" alt="amogus" width=50>
   </abc>
 </H2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -12,7 +13,7 @@
 </a>
 
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTAwMjNjZjMxNWY5MjljMDA5ZDUxMTczMDMwZDEyNjcxNzk4Yzk2MCZjdD1n/RtdRhc7TxBxB0YAsK6/giphy.gif" alt="amogus" width=500>
+
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shady2532&bg_color=00000000&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
