@@ -22,6 +22,7 @@
   <img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.png" width = 50>
   <img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html.png" width = 50>
   <img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css.png" width = 50>
+  <img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript.png" width = 50>
 </p>
 
 
