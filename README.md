@@ -1,9 +1,4 @@
-
-<H2 align="center">
-  <abc>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C51BA5&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Shady.;Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>
-  </abc>
-</H2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C51BA5&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Shady.;Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>
 
 <p align="center"> <img src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif" alt="sohailadiab" /> </p>
 
@@ -28,11 +23,4 @@
   <img src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/vs-studio.svg" width = 50/>  
   <img src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width =50/>
 </p>
-
-
-
-
-
-<a href="https://app.daily.dev/shady2532"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
-
 
