@@ -20,9 +20,9 @@
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width =55/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width =55/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" width =55/>
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width =50 height =60/>
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width =50 height = 60/>
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width =50 height = 45/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" width =50/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width =60 height = 50/>
   <img src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/unity.png" width = 50/>
