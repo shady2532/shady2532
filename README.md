@@ -1,4 +1,4 @@
-<img  src="assests/borderseperator.gif">
+
 <H2 align="center">
   <abc>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C51BA5&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Shady.;Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>
@@ -33,9 +33,9 @@
 
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+    <img src="https://komarev.com/ghpvc/?username=shady2532&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
-<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
+<a href="https://app.daily.dev/shady2532"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
 
 
