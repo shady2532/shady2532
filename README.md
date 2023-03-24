@@ -4,8 +4,9 @@ I am an Egyptian software developer living in Cairo.
 
 I am a student at Faculty of Engineering Ain-Shams University. 
 
-I have been programming for 4 years now. 
-Passionate about 2D/3D Game Development and Graphics Engineering. Currently, I am studying 3D game dev with Unity game engine. 
+I have been programming for 4 years now.
+Passionate about 2D/3D Game Development and Graphics Engineering.
+Currently, I am studying 3D game dev with Unity game engine. 
 
 ## Languages
 intermediate level:
