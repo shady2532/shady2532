@@ -15,9 +15,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&theme=calm&bg_color=00000000&layout=compact" />
 </a>
 <hr>
-<H3> languages </H3>
+<H3> Programming Languages </H3>
 <p>
-<img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.png" width = 50>
+  <img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.png" width = 50>
+  <img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.png" width = 50>
+  <img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.png" width = 50>
 </p>
 
 
