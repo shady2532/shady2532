@@ -3,6 +3,9 @@
 </p>
 <p align="center"> <img src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif" alt="sohailadiab" /> </p>
 
+<H2>About me</H2>
+
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shady2532&bg_color=00000000&theme=radical" />
