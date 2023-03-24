@@ -1,6 +1,7 @@
 <p align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C51BA5&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Shady.;Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>
 </p>
+<img  src="assests/borderseperator.gif">
 <p align="center"> <img src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif" alt="sohailadiab" /> </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
