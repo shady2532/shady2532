@@ -8,7 +8,7 @@
   Passionate about 2D/3D Game Development and Graphics Engineering. <br>
   Currently, I am studying 3D game dev with Unity game engine. <br>
 </p>
-<hr>
+
 <H2 align = "center">Github status<H2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -19,7 +19,6 @@
   </a>
 </p>
 
-<hr>
 
 <H3> Programming Languages & Tools </H3>
 <p aligm ="center"> 
