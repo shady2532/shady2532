@@ -12,10 +12,10 @@
 <H2 align = "center">Github status<H2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shady2532&bg_color=00000000&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shady2532&bg_color=00000000&theme=radical" width = 200 height =300/>
   </a><br>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&theme=radical&bg_color=00000000&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&theme=radical&bg_color=00000000&layout=compact" width = 200 height =300/>
   </a>
 </p>
 
