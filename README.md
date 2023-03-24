@@ -24,7 +24,7 @@
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width =50 height = 60/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width =50/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" width =50/>
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width =60 height = 70/>
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width =60 height = 50/>
   <img src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/unity.png" width = 50/>
   <img src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/vs-studio.svg" width = 50/>  
   <img src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width =50/>
