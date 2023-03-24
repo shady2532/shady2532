@@ -11,8 +11,9 @@
 </a>
   </p>
 <hr>
-<p aligm ="center"> 
+
 <H3> Programming Languages & Tools </H3>
+<p aligm ="center"> 
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width =50 height = 50/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width =50 height=50 />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" width =50 height =50/>
