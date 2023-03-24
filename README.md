@@ -25,5 +25,5 @@ Beginner level:
   - Unity game engine
   - git/GitHub
 
-## stats
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=shady2532&theme=calm&bg_color=00000000&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&layout=compact&theme=calm&bg_color=00000000&hide_border=true"/>
+## Stats
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=shady2532&theme=panda&bg_color=00000000&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&layout=compact&theme=panda&bg_color=00000000&hide_border=true"/>
