@@ -9,10 +9,10 @@
 <p align="center"> <img src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif" alt="sohailadiab" /> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shady2532&bg_color=00000000&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shady2532&bg_color=00000000&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&theme=calm&bg_color=00000000&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&theme=radical&bg_color=00000000&layout=compact" />
 </a>
 <hr>
 <H3> Programming Languages & Tools </H3>
