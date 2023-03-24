@@ -1,4 +1,4 @@
-<p align = center>
+<p align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C51BA5&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Shady.;Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>
 </p>
 <p align="center"> <img src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif" alt="sohailadiab" /> </p>
@@ -11,7 +11,7 @@
 </a>
 <hr>
 <H3> Programming Languages & Tools </H3>
-<p> 
+<p aligm ="center"> 
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width =50 height = 50/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width =50 height=50 />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" width =50 height =50/>
