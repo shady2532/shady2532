@@ -7,7 +7,7 @@ I am a student at Faculty of Engineering Ain-Shams University.
 I have been programming for 4 years now. 
 Passionate about 2D/3D Game Development and Graphics Engineering. Currently, I am studying 3D game dev with Unity game engine. 
 
-##Languages
+## Languages
 intermediate level:
   - C / C++
 
@@ -17,12 +17,12 @@ Beginner level:
   - JavaScript
   - Shell/bash
 
-##Tools & IDEs
+## Tools & IDEs
   - Visual Studio comminuty / VS code
   - Unity game engine
   - git/GitHub
 
-##stats
+## stats
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=shady2532&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&layout=compact&theme=radical&hide_border=true"/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shady2532.shady2532)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shady2532)
