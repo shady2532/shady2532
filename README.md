@@ -26,7 +26,7 @@ Beginner level:
   - git/GitHub
 
 ## Stats
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&layout=compact&theme=transparent&bg_color=00000000&hide_border=true"/>
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamehOssama&layout=compact&theme=transparent&bg_color=00000000&hide_border=true"/>
 
 
 
