@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif" alt="sohailadiab" /> </p>
 
 <H2 align = "center">About me</H2>
-<p> I am a student in Faculty of Engineering Ain-Shams University. <br>
+<p> I am a student at Faculty of Engineering Ain-Shams University. <br>
   Passionate about 2D/3D Game Development and Graphics Engineering. <br>
   Currently, I am studying 3D game dev with Unity game engine. <br>
 </p>
