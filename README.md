@@ -17,7 +17,7 @@
 <hr>
 <H3> Programming Languages </H3>
 <p>
-  <img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.png" width = 50>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.png" width = 50>
   <img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.png" width = 50>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
