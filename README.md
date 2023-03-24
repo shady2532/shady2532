@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&theme=calm&bg_color=00000000&layout=compact" />
 </a>
 <hr>
-<H4> languages </H4>
+<H3> languages </H3>
 <p>
 <img src ="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.png" width = 50>
 </p>
