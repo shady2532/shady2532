@@ -32,9 +32,6 @@
 
 
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=shady2532&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
 
 <a href="https://app.daily.dev/shady2532"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
 
