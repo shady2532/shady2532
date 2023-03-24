@@ -21,7 +21,7 @@
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width =55/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" width =55/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width =55/>
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width =55 height = 50/>
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width =55 height = 55/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width =50/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" width =50/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width =60/>
