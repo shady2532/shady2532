@@ -1,4 +1,4 @@
-Hey there,!
+Hey there!
 
 I am an Egyptian software developer living in Cairo.
 
