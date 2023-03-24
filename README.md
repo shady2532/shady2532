@@ -15,14 +15,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&theme=calm&bg_color=00000000&layout=compact" />
 </a>
 <hr>
-<H3> Programming Languages </H3>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
+<H3> Programming Languages & Tools </H3>
+<p> 
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width =50/>
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width =50/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" width =50/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width =50/>
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width =50/>
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width =50/>
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" width =50/>
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width =50/>
+  <img src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/unity.png" width = 50/>
+  <img src ="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/vs-studio.svg" width = 50/>  
 </p>
 
 
