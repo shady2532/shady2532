@@ -18,7 +18,7 @@ Beginner level:
   - C#
   - Html/CSS
   - JavaScript
-  - Shell/bash
+  - Shell/Bash
 
 ## Tools & IDEs
   - Visual Studio comminuty / VS code
