@@ -22,9 +22,7 @@ Beginner level:
   - Git/GitHub
 
 ## Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shady2532&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shady2532&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shady2532&theme=github_dark"/>
+![Metrics](https://metrics.lecoq.io/shady2532?template=classic&base.indepth=false&config.timezone=Asia%2FCairo)
 
 contact me via discord:
 shady2532#8191
