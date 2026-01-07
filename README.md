@@ -17,7 +17,7 @@ Beginner level:
   - Shell/Bash
 
 ## Tools & IDEs
-  - Visual Studio comminuty / VS code
+  - Visual Studio community / VS code
   - Unity game engine
   - Git/GitHub
 
