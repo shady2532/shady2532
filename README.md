@@ -22,7 +22,10 @@ Beginner level:
   - Git/GitHub
 
 ## Stats
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&layout=compact&theme=transparent&bg_color=00000000&hide_border=true"/>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&hide_title=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=shady2532&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&hide_title=true&count_private=true"/>
+</div>
 
 contact me via discord:
 shady2532#8191
