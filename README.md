@@ -22,7 +22,9 @@ Beginner level:
   - Git/GitHub
 
 ## Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=shady2532&theme=dark&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shady2532&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shady2532&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shady2532&theme=github_dark"/>
 
 contact me via discord:
 shady2532#8191
