@@ -22,7 +22,7 @@ Beginner level:
   - Git/GitHub
 
 ## Stats
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady2532&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&cache_seconds=86400"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=shady2532&theme=dark&hide_border=true)
 
 contact me via discord:
 shady2532#8191
