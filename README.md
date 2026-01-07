@@ -1,28 +1,17 @@
-Hey there!
+<h1 align="center">Hi 👋, I'm Shady Rizk</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I am an Egyptian software developer living in Cairo.
+- 🌱 I’m currently learning **Graphics Programming**
 
-Passionate about 2D/3D Game Development and Graphics Engineering.
+- 📫 How to reach me **shadyrizk2532@gmail.com**
 
-Studying 3D game dev with Unity game engine.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/shady2532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shady2532" height="30" width="40" /></a>
+</p>
 
-## Languages
-intermediate level:
-  - C / C++
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-Beginner level:
-  - C#
-  - Html/CSS
-  - JavaScript
-  - Shell/Bash
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shady2532&show_icons=true&locale=en" alt="shady2532" /></p>
 
-## Tools & IDEs
-  - Visual Studio comminuty / VS code
-  - Unity game engine
-  - Git/GitHub
-
-## Stats
-![Metrics](https://metrics.lecoq.io/shady2532?template=classic&base.indepth=false&config.timezone=Asia%2FCairo)
-
-contact me via discord:
-shady2532#8191
